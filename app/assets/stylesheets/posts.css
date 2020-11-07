@@ -1,0 +1,13 @@
+.post{
+  border: 1px solid;
+  width: 50%;
+  margin-top: 50px;
+}
+
+.post-date{
+  color: red;
+}
+
+div{
+  color: blue;
+}
